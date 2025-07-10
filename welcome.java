@@ -38,13 +38,13 @@ public class welcome extends javax.swing.JFrame {
         });
 
         jLabel3.setFont(new java.awt.Font("Tw Cen MT", 1, 24)); // NOI18N
-        jLabel3.setText("CRN: 021-342");
+        jLabel3.setText("CRN: 021-342 / 021-385");
 
         jLabel4.setFont(new java.awt.Font("Tw Cen MT", 1, 24)); // NOI18N
         jLabel4.setText("Welcome to");
 
         jLabel5.setFont(new java.awt.Font("Tw Cen MT", 1, 24)); // NOI18N
-        jLabel5.setText("Submitted by: Nabin Khadka");
+        jLabel5.setText("Submitted by: Nabin Khadka - Subigya Baral ");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
